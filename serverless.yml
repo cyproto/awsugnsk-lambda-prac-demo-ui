@@ -1,0 +1,9 @@
+name: awsugnsk-todo-session-ui
+
+awsugnsk-todo-session-ui:
+  component: "@serverless/website"
+  region: us-east-1
+  inputs:
+    code:
+      src: ./build
+    bucketName: awsugnsk-todo-session-ui-bucket
