@@ -1,0 +1,37 @@
+.delete-button {
+    border: none;
+    color: white;
+    padding: 10px;
+    border-radius: 30px;
+    font-size: 20px;
+    display: inline-flex;
+    align-items: center;
+    background-color: #FF5F7E;
+    cursor: pointer;
+}
+
+.add-button, .update-button {
+    border: none;
+    color: white;
+    padding: 10px;
+    border-radius: 30px;
+    display: inline-flex;
+    align-items: center;
+    height: 50px;
+    background-color: #AA14F0;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.complete-button {
+    border: none;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 30px;
+    display: inline-flex;
+    align-items: center;
+    background-color: #77D970;
+    cursor: pointer;
+    margin-right: 5px;
+}
